@@ -1,0 +1,156 @@
+
+
+body{
+	font-family: 'Overpass', sans-serif;
+}
+footer{
+	border-radius: 0 60px 0 0;
+	background-color: hsl(240, 10%, 16%);
+	/*opacity: .9;*/
+	padding: 4% 0 4% 10%;
+}
+.section1Heading1{
+	font-size: 3.5rem;
+	font-weight: 600;
+	margin-top: 8%;
+	margin-bottom: 2%;
+}
+.section1Heading2{
+	font-size: 1.5rem;
+	font-weight: 200;
+	margin-bottom: 4%;
+}
+.navbar{
+	font-weight: 400;
+	font-size: 1.2rem;
+}
+.navbar-brand{
+	padding-left: 15%;
+	padding-right: 1rem;
+}
+.nav-link,.nav-item{
+	padding-left: 1rem;
+	padding-right: 1rem;
+}
+.btn{
+	border-radius: 30px;
+}
+#startFree,#learnMore{
+	border-radius: 40px;
+	margin-left: 1rem;
+}
+#btn{
+	padding-left: 10px 32px;
+	border-radius: 40px;
+	color: hotpink; 
+	}
+#section{
+	color: white;
+}
+.login,.dropdown{
+	padding-top: .6rem;
+}
+.login,.signup{
+	color: hotpink;
+	position: relative;
+	left: 40%;
+}
+.section1{
+	color: white;
+	background-image: url('images/bg-pattern-intro-desktop.svg');
+	background-position: left 25% bottom 50%;
+	background-size: 250%;
+	text-align: center;
+	padding-top: 3%;
+	padding-bottom: 8%;
+	background-color: hsl(356, 100%, 66%);
+	/*background-color: #ff4c30;*/
+	/*opacity: .8;*/
+	border-radius: 0 0 0 100px;
+}
+.title-row{
+	text-align: center;
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
+.section2MainHeading{
+	position: relative;
+	top: 4rem;
+	text-align: center;
+}
+.section2-img{
+	width: 110%;
+}
+#left{
+	padding-top: 12%;
+	padding-left: 10%;
+}
+.section2{
+
+}
+.section2Heading{
+	padding-left: 6%;
+}
+.section2-left{
+	/*padding-left: 10%;*/
+}
+}
+.section2-right{
+
+}
+.section3{
+	height: 400px;
+	border-radius: 0 100px 0 100px;
+	background-color: hsl(237, 17%, 21%);
+	background-image: url('images/bg-pattern-circles.svg');
+	 background-position: left;
+	 background-repeat: no-repeat;
+	 padding: 0% 4% 0 11%;
+	 margin-top: 10%;
+}
+.section3-img{
+	position: relative;
+	bottom: 100px;
+}
+.section3-left{
+	
+}
+.section3Heading
+{
+	padding-left: 6%;
+}
+.section3-right{
+	color: white;
+	padding-top: 10%;
+	padding-left: 6%;
+	
+}
+.section4{
+	
+}
+.section4-left{
+
+	 background-image: url('images/illustration-laptop-desktop.svg');
+	 background-position: right;
+	 background-size: 130%;
+	 background-repeat: no-repeat;
+}
+.section4-right{
+	
+	padding-top: 20%;
+	padding-bottom: 15%;
+}
+.para{
+	line-height: 1.8;
+	padding: 4% 10% 1% 6%;
+}
+.footerLink{
+	border-style: none;
+	outline: none;
+	color: white;
+	text-underline-position: unset;
+}
+.footerHeading{
+	color: white;
+	font-size: 1;
+}
